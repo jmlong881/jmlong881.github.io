@@ -3,6 +3,10 @@
 
 ---
 
+# Link to dissertaion 
+<iframe src="https://docs.google.com/document/d/19S_XyHAP6pt1mFKCoBBlNEPujIpKeGBU/edit?usp=drive_link&ouid=114352836102441651551&rtpof=true&sd=true" width="100%" height="500px"></iframe>
+
+
 ## EDUCATION
 * **Doctor of Philosophy (Ph.D.)**, Educational Research, Measurement, and Evaluation, UNCG (4.0 GPA) | *2026*
 * **Master of Science (M.S.)**, Educational Research, Measurement, and Evaluation, UNCG (3.99 GPA) | *2016*
