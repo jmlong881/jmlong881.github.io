@@ -1,5 +1,17 @@
-title: Justin Long
+#title: Justin Long
 #logo: /assets/img/headshot_circle.png
-description: Senior Data Analyist: Instructure
+#description: Senior Data Analyist: Instructure
+#show_downloads: true
+#theme: jekyll-theme-minimal
+
+
+title: Justin Long
+description: Senior Data Analyst: Instructure
 show_downloads: true
-theme: jekyll-theme-minimal
+
+# Use remote_theme instead of theme
+remote_theme: pages-themes/minimal@v0.2.0 
+
+# Ensure these plugins are enabled
+plugins:
+  - jekyll-remote-theme
