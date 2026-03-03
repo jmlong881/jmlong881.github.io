@@ -1,55 +1,85 @@
-# Senior Research Analyist Data Scientist
+# Justin M. Long
+1711 Colonial Ave., Greensboro, NC 27408 | 336-816-3559 | jmlong3@uncg.edu
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+---
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## EDUCATION
+* **Doctor of Philosophy (Ph.D.)**, Educational Research, Measurement, and Evaluation, UNCG (4.0 GPA) | *2026*
+* **Master of Science (M.S.)**, Educational Research, Measurement, and Evaluation, UNCG (3.99 GPA) | *2016*
+* **Bachelor of Arts (B.A.)**, Psychology, Minor in Anthropology, UNCG | *2014*
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+---
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## SKILLS
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Analytics
+Univariate/Multivariate Analysis, Propensity Score Matching, Survey Analysis, Predictive Modeling, Classical Test Theory, Item Response Theory, Document Analysis, Grant Writing & Support, AI and LLM, Hierarchical Linear Modeling (HLM), Structural Equation Modeling (SEM), Text Mining/Sentiment Analysis, Focus Groups, Interviews, Case Study, Reporting/Evaluating Awarded Grants.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Programming Languages & Software
+Python, R, SPSS, SAS, Excel, SQL, LISREL, HLM, STATA, SAS Enterprise Guide.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+---
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## PROFESSIONAL EXPERIENCE
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Senior Research Analyst | Instructure** | *Spring 2025 – Present*
+* Led advanced statistical analyses (IRT, predictive modeling) to evaluate student outcomes.
+* Cleaned and merged complex datasets using SQL, R, Python, and Stata.
+* Conducted evaluation of EdTech products to inform design and impact measurement.
+* Communicated actionable insights via data visualization (R, Python, Shiny).
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**Researcher | LearnPlatform by Instructure** | *Spring 2023 – Spring 2025*
+* Led 30+ preK-12 EdTech evaluations aligned to WWC and ESSA standards.
+* Developed rapid cycle evaluation tools using R.
+* Supported internal psychometric analysis for Mastery Connect.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**Research Specialist | University of Utah (UEPC)** | *Spring 2022 – Spring 2023*
+* Executed large-scale evaluations focusing on continuous improvement and stakeholder engagement.
+* Managed large-scale data cleaning and reporting from state-level sources.
+* Automated real-time reporting via R for student-level data.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Research and Evaluation Specialist | Winston-Salem Forsyth County Schools** | *Summer 2020 – Spring 2022*
+* Managed large-scale evaluation plans (State, Federal, Local).
+* Secured and supported ~$27 million in total grant funds.
+* Automated data pipelines using SAS, R, and Python.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+**Research and Evaluation Specialist | WS/FCS – Data Sharing Project** | *Summer 2018 – Summer 2020*
+* Facilitated large-scale impact and process evaluations.
+* Bridged data gaps between public K-12 schools and community agencies.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+**Data Analyst and Evaluation Specialist | WS/FCS – Forsyth Promise** | *Summer 2016 – July 2018*
+* Built and maintained SAS, Tableau, SPSS, and R projects for district reporting.
+* Created operating protocols for the Data Sharing Project.
+
+**Research and Evaluation Specialist (GA) | WS/FCS** | *Fall 2015 – Spring 2016*
+* Lead evaluator on Star3 and Reading Railroad federal grants.
+
+**Research Assistant | UNCG Office of Assessment, Evaluation, and Research (OAERA)** | *August 2014 – July 2015*
+* Supported test construction, validation, and statistical consulting.
+
+---
+
+## PROFESSIONAL ORGANIZATIONS
+* American Evaluation Association (AEA)
+* American Educational Research Association (AERA)
+* International Psychometric Society (IMPS)
+* Eastern Educational Research Association (EERA)
+* North Carolina Association for Research in Education (NCARE)
+* UNCG Graduate Student Association (Department President, 2015)
+
+---
+
+## SELECTED TECHNICAL REPORTS
+*(Note: I have highlighted a few key reports; you can add the full list below)*
+* **Long, J. (2021).** Predicting Advanced Placement Exam “Success” for Future Students.
+* **Long, J. (2021).** The Relationship Between Race and Disciplinary Infractions: A Text Mining Approach.
+* **Long, J., Cavanaugh, A., & Hargrove, S. (2020).** Barriers for Students and Teachers to eLearning During the Covid-19 Pandemic.
+* **Long, J. (2018).** Investigating the ‘Leibnitz Procedure’ as an Alternative Method of Post Hoc Matched Sampling.
+
+---
+
+## PRESENTATIONS
+*(Selection of recent work)*
+* **Long, J. et al. (2021).** Teachers’ Perceptions of Barriers to Remote Learning. *NCARE.*
+* **Long, J. (2019).** Accuracy and Precision of a Dropout Identification Model. *EERA.*
+* **Long, J. (2016).** Alternative Methods of Generating Post Hoc Matched Samples. *IMPS.*
