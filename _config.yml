@@ -6,7 +6,7 @@
 
 
 title: Justin Long
-description: Senior Data Analyst: Instructure
+description: Senior Data Analyst - Instructure
 show_downloads: true
 
 # Use remote_theme instead of theme
@@ -15,3 +15,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 # Ensure these plugins are enabled
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
