@@ -3,8 +3,8 @@
 
 ---
 
-# Link to dissertaion 
-<iframe src="https://docs.google.com/document/d/19S_XyHAP6pt1mFKCoBBlNEPujIpKeGBU/edit?usp=drive_link&ouid=114352836102441651551&rtpof=true&sd=true" width="100%" height="500px"></iframe>
+## Link to dissertaion 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTasOiy_McjUE7_R_-x78EA0-1-HjJzbhqsb-8fGy_Ov7RTMxfG5amtHJ6GdRFeuQ/pub?embedded=true"></iframe>
 
 
 ## EDUCATION
