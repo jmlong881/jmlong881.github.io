@@ -4,8 +4,11 @@
 ---
 
 ## Link to dissertaion 
+### Dissertation
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTasOiy_McjUE7_R_-x78EA0-1-HjJzbhqsb-8fGy_Ov7RTMxfG5amtHJ6GdRFeuQ/pub?embedded=true"></iframe>
 
+### Presentation 
+[![PDF Report](https://img.shields.io/badge/View-Full_Report-blue?logo=google-drive)]([https://drive.google.com/file/d/your-file-id-here/view](https://docs.google.com/presentation/d/1yOn0E8zHcCgShPo1z9aUl8fkCmY34AAQ/edit?usp=sharing&ouid=114352836102441651551&rtpof=true&sd=true))
 
 ## EDUCATION
 * **Doctor of Philosophy (Ph.D.)**, Educational Research, Measurement, and Evaluation, UNCG (4.0 GPA) | *2026*
