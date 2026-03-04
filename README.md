@@ -5,10 +5,10 @@
 
 ## Link to dissertaion 
 ### Dissertation
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTasOiy_McjUE7_R_-x78EA0-1-HjJzbhqsb-8fGy_Ov7RTMxfG5amtHJ6GdRFeuQ/pub?embedded=true"></iframe>
+[![PDF Report]([https://img.shields.io/badge/View-Full_Report-blue?logo=google-drive)](https://drive.google.com/file/d/your-file-id-here/view](https://drive.google.com/file/d/1U6LTXaSqm7btx-2tLBTj1zpdL7quecoF/view?usp=drive_link))
 
 ### Presentation 
-[![PDF Report](https://img.shields.io/badge/View-Full_Report-blue?logo=google-drive)]([[https://drive.google.com/file/d/your-file-id-here/view](https://docs.google.com/presentation/d/1yOn0E8zHcCgShPo1z9aUl8fkCmY34AAQ/edit?usp=sharing&ouid=114352836102441651551&rtpof=true&sd=true](https://drive.google.com/file/d/1qbXJMzDrjLQJHA7g7A0nyuBKIZpByG57/view?usp=drive_link)))
+[![PDF Report]([https://img.shields.io/badge/View-Full_Report-red?logo=google-drive)](https://drive.google.com/file/d/your-file-id-here/view](https://drive.google.com/file/d/1qbXJMzDrjLQJHA7g7A0nyuBKIZpByG57/view?usp=drive_link))
 
 ## EDUCATION
 * **Doctor of Philosophy (Ph.D.)**, Educational Research, Measurement, and Evaluation, UNCG (4.0 GPA) | *2026*
