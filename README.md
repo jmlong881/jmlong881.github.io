@@ -1,6 +1,4 @@
-# Justin M. Long
-1711 Colonial Ave., Greensboro, NC 27408 | 336-816-3559 | jmlong3@uncg.edu
-
+# Professional Profile
 ---
 
 ## Link to dissertaion 
