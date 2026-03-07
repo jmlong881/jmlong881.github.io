@@ -5,8 +5,11 @@
 ### Dissertation
 [![PDF Report](https://img.shields.io/badge/View-Full_Report-blue?logo=google-drive)](https://drive.google.com/file/d/1U6LTXaSqm7btx-2tLBTj1zpdL7quecoF/view?usp=sharing)
 
-### Presentation 
+### Presentation Slides
 [![PDF Report](https://img.shields.io/badge/View-Full_Report-red?logo=google-drive)](https://drive.google.com/file/d/1qbXJMzDrjLQJHA7g7A0nyuBKIZpByG57/view?usp=sharing)
+
+### Presentation Recording
+[![Watch Video](https://img.shields.io/badge/Video-Project_Walkthrough-red?logo=youtube&logoColor=white)](https://drive.google.com/file/d/1wKB5iWdBlW8Z5GUjQYooEuScX1kHFdTz/view?usp=sharing)
 
 ## EDUCATION
 * **Doctor of Philosophy (Ph.D.)**, Educational Research, Measurement, and Evaluation, UNCG (4.0 GPA) | *2026*
