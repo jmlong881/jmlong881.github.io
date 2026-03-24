@@ -13,7 +13,7 @@
 
 ## EDUCATION
 * **Doctor of Philosophy (Ph.D.)**, Educational Research, Measurement, and Evaluation, UNCG (4.0 GPA) | *2026*
-* **Master of Science (M.S.)**, Educational Research, Measurement, and Evaluation, UNCG (3.99 GPA) | *2016*
+* **Master of Science (M.S.)**, Educational Research, Measurement, and Evaluation, UNCG (3.9 GPA) | *2016*
 * **Bachelor of Arts (B.A.)**, Psychology, Minor in Anthropology, UNCG | *2014*
 
 ---
