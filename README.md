@@ -18,6 +18,7 @@
 
 ## Notable Projects
 * [Amino Acid Sprint](/amino-acid-sprint/): a 60-second quiz on the 20 amino acids at pH 7.
+* [ADHD Timer](/adhd_timer/): A FREE timer to keep you on track when you feel like it!
   
 ---
 
