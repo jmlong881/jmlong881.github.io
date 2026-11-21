@@ -18,6 +18,7 @@
 
 ## Notable Projects
 * **[Amino Acid Sprint](/amino-acid-sprint/): a 60-second quiz on the 20 amino acids at pH 7.
+  
 ---
 
 ## SKILLS
